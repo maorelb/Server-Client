@@ -1,1 +1,1 @@
-# ServerClient-Java-C-
+Implementation of the server(Java) is based on the Thread Per Client (TPC) and Reactor Servers patterns and the client(C++) with Boost Library. The communication between the server and the clients is performed using a binary communication protocol.
